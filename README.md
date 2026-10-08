@@ -1,2 +1,0 @@
-# gym
-Personal home gym 
